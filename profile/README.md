@@ -21,10 +21,7 @@ We believe Git should be accessible to everyone. gitx bridges the gap between po
 
 Built by a team of developers passionate about developer tools and education:
 
-- <img src="https://github.com/bakayu.png" width="30" height="30" style="border-radius:50%" align="center"> [Ayush](https://github.com/bakayu) - Lead Maintainer
-
-- <img src="https://github.com/Anmol-Puri-Coder.png" width="30" height="30" style="border-radius:50%" align="center"> [Anmol Puri](https://github.com/Anmol-Puri-Coder) - Co-Lead Maintainer
-
-- <img src="https://github.com/Ashmit9955.png" width="30" height="30" style="border-radius:50%" align="center"> [Ashmit Singh](https://github.com/Ashmit9955) - Maintainer
-
-- <img src="https://github.com/AnmolKakkar15.png" width="30" height="30" style="border-radius:50%" align="center"> [Anmol Kakkar](https://github.com/AnmolKakkar15) - Maintainer
+- <img src="../data/images/p1.png" width="30" height="30" align="center"> [Ayush](https://github.com/bakayu) - Lead Maintainer
+- <img src="../data/images/p2.png" width="30" height="30" align="center"> [Anmol Puri](https://github.com/Anmol-Puri-Coder) - Co-Lead Maintainer
+- <img src="../data/images/p3.png" width="30" height="30" align="center"> [Ashmit Singh](https://github.com/Ashmit9955) - Maintainer
+- <img src="../data/images/p4.png" width="30" height="30" align="center"> [Anmol Kakkar](https://github.com/AnmolKakkar15) - Maintainer
