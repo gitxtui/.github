@@ -1,10 +1,16 @@
-# 🌟 gitx
+<div align="center">
+
+# 🌟 gitxtui/gitx
+
+![gitx banner placeholder](../data/images/gitx-banner.png)
 
 A terminal-based Git interface designed to make version control more accessible.
 
+</div>
+
 ## 📝 About
 
-[gitx](https://github.com/gitxtui/gitx) is a Git TUI (Terminal User Interface) that helps newcomers learn Git through an intuitive, friction-free experience. Similar to tools like lazygit, but with a focus on education and ease of use.
+[`Gitx`](https://github.com/gitxtui/gitx) is a Git TUI (Terminal User Interface) that helps newcomers learn Git through an intuitive, friction-free experience. Similar to tools like lazygit, but with a focus on education and ease of use.
 
 ## ✨ Key Features
 
