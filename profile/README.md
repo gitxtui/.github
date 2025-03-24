@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td width="200"><h3>📝 About</h3></td>
-    <td style="text-align: justify;"><a href="https://github.com/gitxtui/gitx">Gitx</a> is a Git TUI (Terminal User Interface) that helps newcomers learn Git through an intuitive, friction-free experience. Similar to tools like lazygit, but with a focus on education and ease of use.</td>
+    <td style="text-align: justify;"><a href="https://github.com/gitxtui/gitx"><kbd>Gitx</kbd></a> is a Git TUI (Terminal User Interface) that helps newcomers learn Git through an intuitive, friction-free experience. Similar to tools like lazygit, but with a focus on education and ease of use.</td>
   </tr>
   <tr>
     <td width="200"><h3>🎯 Our Mission</h3></td>
